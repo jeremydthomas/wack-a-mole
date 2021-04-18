@@ -10,7 +10,7 @@ body {
 
 .wrapper {
   border: 3px solid #010124;
-  width: 800px;
+  width: auto;
   height: 600px;
   position: absolute;
   top: 50%;
